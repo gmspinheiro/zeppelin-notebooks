@@ -21,27 +21,70 @@
         "params": {},
         "forms": {}
       },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "hello\n"
+          }
+        ]
+      },
       "apps": [],
       "jobName": "paragraph_1544785136125_1794365028",
       "id": "20181214-105856_1365106721",
       "dateCreated": "2018-12-14 10:58:56.126",
-      "dateStarted": "2018-12-14 11:00:16.677",
-      "status": "PENDING",
+      "dateStarted": "2018-12-14 11:00:23.487",
+      "dateFinished": "2018-12-14 11:00:23.511",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\nwhoami",
+      "user": "gil",
+      "dateUpdated": "2018-12-14 11:01:37.171",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {}
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1544785216598_-428406149",
+      "id": "20181214-110016_485953387",
+      "dateCreated": "2018-12-14 11:00:16.598",
+      "dateStarted": "2018-12-14 11:01:37.216",
+      "dateFinished": "2018-12-14 11:01:37.272",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "%sh\n",
       "user": "gil",
-      "dateUpdated": "2018-12-14 11:00:16.600",
+      "dateUpdated": "2018-12-14 11:01:37.173",
       "config": {},
       "settings": {
         "params": {},
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544785216598_-428406149",
-      "id": "20181214-110016_485953387",
-      "dateCreated": "2018-12-14 11:00:16.598",
+      "jobName": "paragraph_1544785297171_1913497984",
+      "id": "20181214-110137_1344258303",
+      "dateCreated": "2018-12-14 11:01:37.171",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
