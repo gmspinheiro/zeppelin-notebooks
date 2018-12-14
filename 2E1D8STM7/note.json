@@ -1,21 +1,23 @@
 {
   "paragraphs": [
     {
+      "title": "sdasda",
       "text": "%sh\necho \"hello\"",
       "user": "gil",
-      "dateUpdated": "2018-12-14 11:00:22.230",
+      "dateUpdated": "2018-12-14 11:28:00.716",
       "config": {
-        "colWidth": 12.0,
-        "fontSize": 9.0,
-        "enabled": true,
-        "results": {},
         "editorSetting": {
-          "language": "scala",
+          "language": "sh",
           "editOnDblClick": false,
           "completionKey": "TAB",
-          "completionSupport": true
+          "completionSupport": false
         },
-        "editorMode": "ace/mode/scala"
+        "colWidth": 12.0,
+        "editorMode": "ace/mode/sh",
+        "fontSize": 9.0,
+        "results": {},
+        "enabled": true,
+        "title": true
       },
       "settings": {
         "params": {},
@@ -30,21 +32,23 @@
       "progressUpdateIntervalMs": 500
     },
     {
+      "title": "asdafds223231",
       "text": "%sh\nda",
       "user": "gil",
-      "dateUpdated": "2018-12-14 11:26:21.338",
+      "dateUpdated": "2018-12-14 11:28:06.326",
       "config": {
-        "colWidth": 12.0,
-        "fontSize": 9.0,
-        "enabled": true,
-        "results": {},
         "editorSetting": {
           "language": "sh",
           "editOnDblClick": false,
           "completionKey": "TAB",
           "completionSupport": false
         },
-        "editorMode": "ace/mode/sh"
+        "colWidth": 12.0,
+        "editorMode": "ace/mode/sh",
+        "fontSize": 9.0,
+        "results": {},
+        "enabled": true,
+        "title": true
       },
       "settings": {
         "params": {},
@@ -151,7 +155,8 @@
     "sh:gil:": []
   },
   "config": {
-    "isZeppelinNotebookCronEnable": false
+    "isZeppelinNotebookCronEnable": false,
+    "personalizedMode": "true"
   },
   "info": {}
 }
