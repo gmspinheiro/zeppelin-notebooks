@@ -2,9 +2,9 @@
   "paragraphs": [
     {
       "title": "sdasda",
-      "text": "%sh\necho \"hello\"",
+      "text": "%sh\ncd /opt/zeppelin/remote-repo/zeppelin-notebooks/\ngit push origin master",
       "user": "gil",
-      "dateUpdated": "2018-12-14 11:28:00.716",
+      "dateUpdated": "2018-12-14 11:48:37.348",
       "config": {
         "editorSetting": {
           "language": "sh",
@@ -23,19 +23,29 @@
         "params": {},
         "forms": {}
       },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Everything up-to-date\n"
+          }
+        ]
+      },
       "apps": [],
       "jobName": "paragraph_1544785136125_1794365028",
       "id": "20181214-105856_1365106721",
       "dateCreated": "2018-12-14 10:58:56.126",
-      "dateStarted": "2018-12-14 11:00:16.677",
-      "status": "ABORT",
+      "dateStarted": "2018-12-14 11:48:37.373",
+      "dateFinished": "2018-12-14 11:48:38.645",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "title": "asdafds223231",
-      "text": "%sh\nda",
+      "text": "%sh\ndbalesdassd",
       "user": "gil",
-      "dateUpdated": "2018-12-14 11:28:06.326",
+      "dateUpdated": "2018-12-14 11:48:51.027",
       "config": {
         "editorSetting": {
           "language": "sh",
@@ -58,6 +68,22 @@
       "jobName": "paragraph_1544785216598_-428406149",
       "id": "20181214-110016_485953387",
       "dateCreated": "2018-12-14 11:00:16.598",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\n",
+      "user": "gil",
+      "dateUpdated": "2018-12-14 11:48:46.792",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1544788126792_-1434465894",
+      "id": "20181214-114846_526251964",
+      "dateCreated": "2018-12-14 11:48:46.792",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     },
