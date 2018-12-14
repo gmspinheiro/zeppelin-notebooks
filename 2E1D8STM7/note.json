@@ -21,70 +21,123 @@
         "params": {},
         "forms": {}
       },
-      "results": {
-        "code": "SUCCESS",
-        "msg": [
-          {
-            "type": "TEXT",
-            "data": "hello\n"
-          }
-        ]
-      },
       "apps": [],
       "jobName": "paragraph_1544785136125_1794365028",
       "id": "20181214-105856_1365106721",
       "dateCreated": "2018-12-14 10:58:56.126",
-      "dateStarted": "2018-12-14 11:00:23.487",
-      "dateFinished": "2018-12-14 11:00:23.511",
-      "status": "FINISHED",
+      "dateStarted": "2018-12-14 11:00:16.677",
+      "status": "ABORT",
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%sh\nwhoami",
+      "text": "%sh\nda",
       "user": "gil",
-      "dateUpdated": "2018-12-14 11:01:37.171",
+      "dateUpdated": "2018-12-14 11:26:21.338",
       "config": {
         "colWidth": 12.0,
         "fontSize": 9.0,
         "enabled": true,
         "results": {},
-        "editorSetting": {}
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
       },
       "settings": {
         "params": {},
         "forms": {}
-      },
-      "results": {
-        "code": "SUCCESS",
-        "msg": [
-          {
-            "type": "TEXT",
-            "data": "root\n"
-          }
-        ]
       },
       "apps": [],
       "jobName": "paragraph_1544785216598_-428406149",
       "id": "20181214-110016_485953387",
       "dateCreated": "2018-12-14 11:00:16.598",
-      "dateStarted": "2018-12-14 11:01:37.216",
-      "dateFinished": "2018-12-14 11:01:37.272",
-      "status": "FINISHED",
+      "status": "READY",
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%sh\n",
+      "text": "%sh\nasd",
       "user": "gil",
-      "dateUpdated": "2018-12-14 11:01:37.173",
-      "config": {},
+      "dateUpdated": "2018-12-14 11:26:22.339",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
       "settings": {
         "params": {},
         "forms": {}
       },
       "apps": [],
-      "jobName": "paragraph_1544785297171_1913497984",
-      "id": "20181214-110137_1344258303",
-      "dateCreated": "2018-12-14 11:01:37.171",
+      "jobName": "paragraph_1544786779870_-1154753618",
+      "id": "20181214-112619_459618273",
+      "dateCreated": "2018-12-14 11:26:19.870",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\nasd",
+      "user": "gil",
+      "dateUpdated": "2018-12-14 11:26:23.124",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1544786781449_-1797759056",
+      "id": "20181214-112621_1539576594",
+      "dateCreated": "2018-12-14 11:26:21.449",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\nasd",
+      "user": "gil",
+      "dateUpdated": "2018-12-14 11:26:29.127",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1544786779452_-2029323015",
+      "id": "20181214-112619_1351285465",
+      "dateCreated": "2018-12-14 11:26:19.452",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
@@ -95,7 +148,7 @@
   "noteForms": {},
   "angularObjects": {
     "spark:gil:": [],
-    "sh:shared_process": []
+    "sh:gil:": []
   },
   "config": {
     "isZeppelinNotebookCronEnable": false
